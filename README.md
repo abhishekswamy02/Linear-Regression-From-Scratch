@@ -22,7 +22,7 @@ This project predicts house prices using manually implemented Linear Regression.
 - Model evaluation (RMSE, R²)
 
 - 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 After completing this project, learners will be able to:
 
@@ -32,7 +32,7 @@ After completing this project, learners will be able to:
 - Apply Gradient Descent optimization
 - Evaluate regression models using RMSE and R²
 - 
-- ## ▶ How to Run
+- ##  How to Run
 
 1. Clone the repository:
  git clone https://github.com/abhishekswamy02/Linear-Regression-From-Scratch.git
